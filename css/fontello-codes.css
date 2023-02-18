@@ -1,0 +1,6 @@
+
+.icon-signal:before { content: '\e800'; } /* '' */
+.icon-hdd:before { content: '\f084'; } /* '' */
+.icon-desktop:before { content: '\f108'; } /* '' */
+.icon-laptop:before { content: '\f109'; } /* '' */
+.icon-file-code:before { content: '\f1c9'; } /* '' */
